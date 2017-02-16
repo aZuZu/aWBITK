@@ -1,0 +1,7 @@
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aWBITK\aWBITK\bin\Debug\aWBITK.exe
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aWBITK\aWBITK\bin\Debug\aWBITK.pdb
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aWBITK\aWBITK\obj\Debug\aWBITK.csprojResolveAssemblyReference.cache
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aWBITK\aWBITK\obj\Debug\aWBITK.MainForm.resources
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aWBITK\aWBITK\obj\Debug\aWBITK.csproj.GenerateResource.Cache
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aWBITK\aWBITK\obj\Debug\aWBITK.exe
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aWBITK\aWBITK\obj\Debug\aWBITK.pdb
